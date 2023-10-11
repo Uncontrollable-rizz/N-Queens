@@ -1,2 +1,2 @@
 # N-Queens
-N-Queens uing Javascript
+N-Queens using Javascript
